@@ -1,4 +1,4 @@
-# q3config
+# Header 1
 Trismegist0s Quake 3 client configuration files
 
 Recommended use for these files:
