@@ -6,4 +6,4 @@ Recommended use for these files:
 2.  Execute the YOURNAMEHERE.cfg file from your quake3 command line
 
 ```markdown
-/games/quake3/ioquake3.x86_64 +exec YOURNAMEHERE.cfg +connect ffa.q3a51.com
+/games/quake3/quake3e.x86 +exec YOURNAMEHERE.cfg +connect ffa.q3a51.com
